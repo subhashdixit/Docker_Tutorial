@@ -64,3 +64,11 @@ Command to pull docker image from dockerhub
 ``` 
 docker pull hitterdixit/welcome-app:latest
 ```
+
+Docker compose:
+```
+It is a tool to run and define multi-conatainer docker application
+```
+docker-compose.yml file: It is used to tun multi-container docker application
+
+EXPOSE variable: It is used to specifiy port number that will be exposed to container
